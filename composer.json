@@ -1,5 +1,5 @@
 {
-    "name": "expcommerce/amazon-mws-orders",
+    "name": "sherif807/amazon-mws-orders",
     "description": "Amazon MWS Orders API with Composer integration",
     "license": "Apache-2.0",
     "keywords": [
@@ -8,11 +8,11 @@
         "api",
         "orders"
     ],
-    "homepage": "https://github.com/c1tru55/amazon-mws-orders",
+    "homepage": "https://github.com/sherif807/amazon-mws-orders",
     "authors": [
         {
-            "name": "c1tru55",
-            "homepage": "http://expcommerce.com"
+            "name": "Sherif Badawy",
+            "homepage": ""
         }
     ],
     "require": {
